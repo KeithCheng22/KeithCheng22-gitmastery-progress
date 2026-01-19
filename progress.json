@@ -104,5 +104,14 @@
       "You are still ignoring many/file22.txt."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768789147.004756,
+    "completed_at": 1768789149.456109,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
   }
 ]
